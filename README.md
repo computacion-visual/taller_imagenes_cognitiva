@@ -7,10 +7,10 @@ Introducir el análisis de imágenes/video en el lenguaje de Processing.
 2. Tareas
 Implementar las siguientes operaciones de análisis para imágenes/video:
 
-- Conversión a escala de grises.
-- Aplicación de algunas máscaras de convolución.
-- (solo para imágenes) Despliegue del histograma.
-- (solo para imágenes) Segmentación de la imagen a partir del histograma.
+- Conversión a escala de grises: A partir de los pixeles de la imagen original, se carga en un nuevo canvas la misma imagen en escala de grises.
+- Aplicación de algunas máscaras de convolución:
+- (solo para imágenes) Despliegue del histograma: El histograma se crea a partir de la imagen del segundo canvas y se muestra sobre esta. 
+- (solo para imágenes) Segmentación de la imagen a partir del histograma: Para la segmentación en el segundo canvas se muestran los pixeles de la imagen que se encuentran dentro de segmentación establecida.
 - (solo para video) Medición de la eficiencia computacional para las operaciones realizadas.
 - Emplear dos canvas, uno para desplegar la imagen/video original y el otro para el resultado del análisis.
 
