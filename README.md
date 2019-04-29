@@ -15,5 +15,5 @@ Implementar las siguientes operaciones de análisis para imágenes/video:
 - Emplear dos canvas, uno para desplegar la imagen/video original y el otro para el resultado del análisis.
 
 Integrantes
-Katherine Sierra 	katherinsb
-Gabriela Suarez   Gabi04
+Katherine Sierra -> katherinsb,
+Gabriela Suarez -> Gabi04
