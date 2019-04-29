@@ -15,5 +15,5 @@ Implementar las siguientes operaciones de análisis para imágenes/video:
 - **Medición de la eficiencia computacional para las operaciones realizadas**
 
 **Integrantes**
-*Katherine Sierra -> katherinsb,
-*Gabriela Suarez -> Gabi04
+Katherine Sierra -> katherinsb,
+Gabriela Suarez -> Gabi04
